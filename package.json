@@ -2,7 +2,7 @@
   "name": "front-work-base",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nomura-Kota.github.io/PC_Mitumori/",
+  "homepage": "https://takashi724.github.io/PC_Mitumori/",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
